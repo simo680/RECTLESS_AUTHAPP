@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RECTLESS_AUTHAPP/static/css/main.bad892de.css",
-    "main.js": "/RECTLESS_AUTHAPP/static/js/main.84be5b2d.js",
+    "main.js": "/RECTLESS_AUTHAPP/static/js/main.5ba4043b.js",
     "static/media/xmark-solid.svg": "/RECTLESS_AUTHAPP/static/media/xmark-solid.36a4640e5e00e4a8d51cddd2b72b6ce2.svg",
     "index.html": "/RECTLESS_AUTHAPP/index.html",
     "main.bad892de.css.map": "/RECTLESS_AUTHAPP/static/css/main.bad892de.css.map",
-    "main.84be5b2d.js.map": "/RECTLESS_AUTHAPP/static/js/main.84be5b2d.js.map"
+    "main.5ba4043b.js.map": "/RECTLESS_AUTHAPP/static/js/main.5ba4043b.js.map"
   },
   "entrypoints": [
     "static/css/main.bad892de.css",
-    "static/js/main.84be5b2d.js"
+    "static/js/main.5ba4043b.js"
   ]
 }
