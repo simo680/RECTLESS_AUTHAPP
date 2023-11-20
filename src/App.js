@@ -8,12 +8,13 @@ function App() {
 
   return (
     <div>
-      <Link to={"/login"} />
-      <Button
-        title="Авторизация / Регистрация"
-        color={"yellow"}
-        onClick={() => setActive(true)}
-      />
+       <Link to={'/login'}>
+        <Button 
+          title='Авторизация / Регистрация' 
+          color={'yellow'}
+          onClick={() => setActive(true)}
+        />
+      </Link>
       <Modal active={active} setActive={setActive} />
     </div>
   );
