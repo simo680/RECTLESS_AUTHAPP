@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+  "homepage": "https://simo680.github.io/RECTLESS_AUTHAPP/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
